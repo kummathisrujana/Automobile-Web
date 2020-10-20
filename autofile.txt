@@ -5,3 +5,6 @@ login page issues
 home page issues
 login page deployment
 home page deployment
+home and login page is successfully deployed
+release to production
+go live is scheduled
