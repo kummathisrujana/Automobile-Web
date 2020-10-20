@@ -17,3 +17,5 @@ System.out.println("n is armstrong");
 }
 }
 }
+out put is : n is armstrong number
+code is successfully executed
